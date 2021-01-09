@@ -1,0 +1,25 @@
+{
+  "name": "nodetypescript",
+  "version": "1.0.0",
+  "description": "Estudo de NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rayanscs/nodetypescript.git"
+  },
+  "keywords": [
+    "nodejs",
+    "typescript",
+    "api",
+    "estudo"
+  ],
+  "author": "Rayans Carvalho Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rayanscs/nodetypescript/issues"
+  },
+  "homepage": "https://github.com/rayanscs/nodetypescript#readme"
+}
